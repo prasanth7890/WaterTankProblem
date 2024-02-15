@@ -1,0 +1,20 @@
+.tank {
+    background-color: dodgerblue;
+    width: 120px;
+    height: 100px;
+    border: solid rgb(0, 28, 50) 2px;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 640px;
+    /* background-color: blue; */
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
